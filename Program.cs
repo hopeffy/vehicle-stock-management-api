@@ -1,4 +1,7 @@
 
+using Microsoft.EntityFrameworkCore;
+using vehicle_stock_management_api.Models;
+
 namespace vehicle_stock_management_api
 {
     public class Program
@@ -6,6 +9,11 @@ namespace vehicle_stock_management_api
         public static void Main(string[] args)
         {
             var builder = WebApplication.CreateBuilder(args);
+
+            var connection = builder.Configuration.GetConnectionString("PostgresConnection");
+
+            builder.Services.AddDbContext<AppDbContext>(options =>
+            options.UseNpgsql(connection));
 
             // Add services to the container.
 
