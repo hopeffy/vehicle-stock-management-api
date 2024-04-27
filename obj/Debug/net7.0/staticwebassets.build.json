@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "J8EXM5gOr8YlQdJIeg0H3tKbsR4VBOolqYfuiaXn7V8=",
+  "Source": "vehicle-stock-management-api",
+  "BasePath": "_content/vehicle-stock-management-api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
