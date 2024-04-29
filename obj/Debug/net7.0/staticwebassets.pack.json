@@ -1,0 +1,57 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\vehicle-stock-management-api\\wwwroot\\Uploads\\Product\\Screenshot_13.png\\image.png",
+      "PackagePath": "staticwebassets\\Uploads\\Product\\Screenshot_13.png\\image.png"
+    },
+    {
+      "Id": "D:\\vehicle-stock-management-api\\wwwroot\\Uploads\\Product\\Screenshot_14.png\\image.png",
+      "PackagePath": "staticwebassets\\Uploads\\Product\\Screenshot_14.png\\image.png"
+    },
+    {
+      "Id": "D:\\vehicle-stock-management-api\\wwwroot\\Uploads\\Product\\Screenshot_5.png\\image.png",
+      "PackagePath": "staticwebassets\\Uploads\\Product\\Screenshot_5.png\\image.png"
+    },
+    {
+      "Id": "D:\\vehicle-stock-management-api\\wwwroot\\Uploads\\Product\\Screenshot_6.png\\image.png",
+      "PackagePath": "staticwebassets\\Uploads\\Product\\Screenshot_6.png\\image.png"
+    },
+    {
+      "Id": "D:\\vehicle-stock-management-api\\wwwroot\\Uploads\\Product\\Screenshot_9.png\\image.png",
+      "PackagePath": "staticwebassets\\Uploads\\Product\\Screenshot_9.png\\image.png"
+    },
+    {
+      "Id": "D:\\vehicle-stock-management-api\\wwwroot\\Uploads\\Product\\globalAIhub.png\\image.png",
+      "PackagePath": "staticwebassets\\Uploads\\Product\\globalAIhub.png\\image.png"
+    },
+    {
+      "Id": "D:\\vehicle-stock-management-api\\wwwroot\\Uploads\\Product\\güzargah.png\\image.png",
+      "PackagePath": "staticwebassets\\Uploads\\Product\\güzargah.png\\image.png"
+    },
+    {
+      "Id": "D:\\vehicle-stock-management-api\\wwwroot\\Uploads\\Product\\new2.1.png\\image.png",
+      "PackagePath": "staticwebassets\\Uploads\\Product\\new2.1.png\\image.png"
+    },
+    {
+      "Id": "D:\\vehicle-stock-management-api\\wwwroot\\Uploads\\common\\noimage.png",
+      "PackagePath": "staticwebassets\\Uploads\\common\\noimage.png"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.vehicle-stock-management-api.props",
+      "PackagePath": "build\\vehicle-stock-management-api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.vehicle-stock-management-api.props",
+      "PackagePath": "buildMultiTargeting\\vehicle-stock-management-api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.vehicle-stock-management-api.props",
+      "PackagePath": "buildTransitive\\vehicle-stock-management-api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.vehicle-stock-management-api.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

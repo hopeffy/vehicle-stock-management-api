@@ -28,4 +28,9 @@
     <PackageReference Include="System.Diagnostics.Tools" Version="4.3.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="wwwroot\Uploads\common\" />
+    <Folder Include="wwwroot\Uploads\Product\" />
+  </ItemGroup>
+
 </Project>
